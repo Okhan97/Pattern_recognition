@@ -1,1 +1,1 @@
-# Pattern_recognition
+# Clasificador de letras
