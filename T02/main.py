@@ -21,7 +21,8 @@ from sfs import sfs
 # de igual manera create_info() solo crea la data una vez, si ya existe retorna sin hacer nada.
 
 # El unico detalle a tener en consideracion es que se debe de tener todos estos modulos dentro de
-# una carpeta "T02" para que los path funcionen, todo lo demas viene en el zip (incluidas las carpetas
+# una carpeta "T02" para que los path funcionen y tambien las carpetas "Testing_0", "Testing_1",
+# "Training_0" y "Training_1" con las fotos respectivas dentro de ellas, todo lo demas viene en el zip (incluidas las carpetas
 # con las imagenes de train y test). 
 # Tambien tener en cuenta que SIEMPRE que se quiera ejecutar test(n) se DEBE DE HABER EJECUTADO 
 # PREVIAMENTE train(n)
